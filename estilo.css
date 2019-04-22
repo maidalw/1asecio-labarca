@@ -147,7 +147,7 @@ video{
 	margin:1%;
 	color:#333;
 	background:rgba(240,212,53,1);
-	box-shadow:0 0 5px rgba(0,0,.5);
+	box-shadow:0 0 5px rgba(71,39,114,1);
 }
 
 .item:hover{
@@ -225,7 +225,7 @@ footer p{
 		width:48%;
 		margin:1%;
 		background:rgba(71,39,114,1);
-		color:#FFF;
+		color:#000;
 	}
 
 }
@@ -238,7 +238,7 @@ footer p{
 		width:96%;
 		margin:2%;
 		background:rgba(71,39,114,1);
-		color:#FFF;
+		color:#000;
 	}
 
 }
