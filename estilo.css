@@ -224,8 +224,8 @@ footer p{
 	.item{
 		width:48%;
 		margin:1%;
-		background:rgba(240,212,53,1);
-		color:rgba(240,212,53,1);
+		background:#000;
+		color:#FFF;
 	}
 
 }
@@ -237,8 +237,8 @@ footer p{
 	.item{
 		width:96%;
 		margin:2%;
-		background:rgba(71,39,114,1);
-		color:rgba(71,39,114,1);
+		background:#000;
+		color:#FFF;
 	}
 
 }
