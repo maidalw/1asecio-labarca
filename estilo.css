@@ -147,7 +147,7 @@ video{
 	margin:1%;
 	color:#333;
 	background:rgba(240,212,53,1);
-	box-shadow:0 0 5px rgba(240,212,53,1);
+	box-shadow:rgba(240,212,53,1);
 }
 
 .item:hover{
