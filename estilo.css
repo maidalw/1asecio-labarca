@@ -145,7 +145,7 @@ video{
 .item {
 	width:23%;
 	margin:1%;
-	color:#333;
+	color:rgba(240,212,53,1);
 	background:rgba(240,212,53,1);
 	box-shadow:rgba(240,212,53,1);
 }
